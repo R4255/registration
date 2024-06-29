@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .jumbotron {
+            background-image: url('path_to_your_background_image.jpg');
+            background-size: cover;
+            color: white;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+            padding: 100px 20px;
+        }
+        .btn-custom {
+            background-color: #dc3545;
+            border-color: #dc3545;
+        }
+        .btn-custom:hover {
+            background-color: #c82333;
+            border-color: #bd2130;
+        }
+    </style>
+</head>
+<body>
+    <div class="jumbotron text-center">
+        <h1 class="display-4">Welcome to CurioCode Solution</h1>
+        <p class="lead">Empowering innovation through technology.</p>
+        <hr class="my-4">
+        <p>Discover the future with us.</p>
+        <a class="btn btn-lg btn-custom" href="{% url 'logout' %}" role="button">Logout</a>
+    </div>
+
+    <div class="container mt-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header text-center">
+                        <h3>About Us</h3>
+                    </div>
+                    <div class="card-body">
+                        <p class="card-text">CurioCode Solution is dedicated to providing cutting-edge solutions that transform businesses and empower individuals. Our team of experts is committed to innovation, quality, and client satisfaction.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer mt-5 py-3 bg-dark text-white">
+        <div class="container text-center">
+            <span class="text-muted">&copy; 2024 CurioCode Solution. All rights reserved.</span>
+        </div>
+    </footer>
+
+</body>
+</html>

@@ -6,9 +6,9 @@
 3. Type the following command:
    ```sh
    git clone https://github.com/R4255/registration.git
-  ```sh
+  ```
   cd registration
-  ```sh
+  ```
   python -m venv env
   ```sh
   .\env\Scripts\activate

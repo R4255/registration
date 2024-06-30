@@ -22,3 +22,5 @@
      python manage.py createsuperuser
      ```
      python manage.py runserver
+
+![image](https://github.com/R4255/registration/assets/120003869/7727c6a7-49d2-40a7-a50a-ac3729fdbe6a)

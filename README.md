@@ -27,3 +27,6 @@
 
 ![image](https://github.com/R4255/registration/assets/120003869/79854de3-93ca-4ee4-9fcf-d3d2a30ae2ea)
 
+![image](https://github.com/R4255/registration/assets/120003869/7d86855d-f9ae-405b-a489-4ab950cf72d2)
+
+

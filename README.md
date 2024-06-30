@@ -24,3 +24,6 @@
      python manage.py runserver
 
 ![image](https://github.com/R4255/registration/assets/120003869/7727c6a7-49d2-40a7-a50a-ac3729fdbe6a)
+
+![image](https://github.com/R4255/registration/assets/120003869/79854de3-93ca-4ee4-9fcf-d3d2a30ae2ea)
+
